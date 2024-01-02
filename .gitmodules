@@ -1,0 +1,7 @@
+[submodule "seastar"]
+    path = seastar
+    url = https://github.com/scylladb/seastar.git
+    ignore = dirty
+[submodule "abseil-cpp"]
+    path = abseil-cpp
+    url = https://github.com/abseil/abseil-cpp.git
